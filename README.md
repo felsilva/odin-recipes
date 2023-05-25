@@ -5,7 +5,7 @@ odin-recipes
 
 Hi my name is Felipe Silva, I'm taking the self taught path on ODIN ACADEMY to become a full stack developer, this exercise is part of the first proyect on the course.
 
-I'm going to be updating this README with the principal problems that I be facing on my journy and also to keep me motivated on the process to learn.
+I'm going to be updating this README with the principal problems that I be facing on my journy and also to keep me motivated on the process to learns.
 
 with no furthermore presentation I hope everyone have a nice day and week.
 
